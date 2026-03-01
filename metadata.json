@@ -1,0 +1,5 @@
+{
+  "name": "Guardian-Shield AI",
+  "description": "Automated Red-Teaming pipeline for LLMs. Features adversarial testing, security scanning for prompt-injection, and robustness benchmarking.",
+  "requestFramePermissions": []
+}
